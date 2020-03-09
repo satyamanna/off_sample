@@ -1,4 +1,4 @@
-package com.satya.threadtest;
+package com.myself.test;
 
 public class ThreadJoinTest {
 
